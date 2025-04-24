@@ -57,7 +57,7 @@ Open the displayed URL (usually `http://localhost:8501`) in your browser.
 Below is an example of the output showing the actual vs. predicted displacement:
 
 ### 🔍 Seismic Response Prediction
-<img src="assets/seismic_response_prediction.png" alt="Seismic Response Prediction" width="600"/>
+<img src="seismic_response_prediction.png" alt="Seismic Response Prediction" width="600"/>
 
 The blue curve shows the **actual structural displacement** calculated using the mathematical model, while the orange curve shows the **predicted displacement** using the trained LSTM neural network. Ideally, the predicted curve should closely follow the actual one, which indicates good model performance.
 
